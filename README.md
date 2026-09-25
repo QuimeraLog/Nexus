@@ -16,7 +16,7 @@ Grupo 4 do Projeto Integrador em Logística do primeiro semestre. Projeto basead
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 27/08/2026 | Concluído ✅ | [Ver Relatório]() | 
+|Kick Off | 27/08/2026 | Concluído ✅ | [Ver Relatório](https://centropaulasouza-my.sharepoint.com/personal/jessica_castro01_aluno_cps_sp_gov_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjessica%5Fcastro01%5Faluno%5Fcps%5Fsp%5Fgov%5Fbr%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FVID%2D20260903%2DWA0023%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E72e12ebf%2Dc948%2D447c%2Da9d0%2D300f8ca24f6e) | 
 |Entrega do vídeo | 03/09/2026 | Concluído ✅| [Ver Relatório]() | 
 |Sprint 01|  01/10/2026 | Em Andamento ⚙️|[Ver Relatório]() | 
 |Sprint 02| 29/10/2026 | A Fazer🗒️ |[Ver Relatório]() | 

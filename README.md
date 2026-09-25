@@ -8,8 +8,8 @@ Grupo 4 do Projeto Integrador em Logística do primeiro semestre. Projeto basead
 * [Equipe]()
 * [Objetivo do Projeto]()
 * [Funcionalidades e registros (vídeos e apresentações) das sprints]()
-* [Cronograma do projeto]()
-* [Backlog do produto]()
+* [Cronograma do projeto](https://centropaulasouza-my.sharepoint.com/:x:/r/personal/jessica_castro01_aluno_cps_sp_gov_br/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7Bbe496e26-77a6-4171-8bc5-61f49eb89086%7D&wdExp=TEAMS-TREATMENT&web=1)
+* [Backlog do produto](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/jessica_castro01_aluno_cps_sp_gov_br/IQAHheBmDeMGTZxSuKbni6i_AXCqm_06geLxmZ-9ibQzXxs?wdExp=TEAMS-TREATMENT&web=1&isSPOFile=1&ovuser=eabe64c5-68f5-4a76-8301-9577a679e449%2Cjessica.castro01%40aluno.cps.sp.gov.br&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtV2ViIiwiQXBwVmVyc2lvbiI6IjE0MTUvMjYwODEzMTkzMjEifQ%3D%3D)
 * [Competências desenvolvidas]()
 
 # Cronograma do projeto

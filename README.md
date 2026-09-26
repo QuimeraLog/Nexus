@@ -39,10 +39,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ## Tecnologias Utilizadas:
 
-* Power BI
-* Microsoft Excel
-* Microsoft Word
-* Python (Colab)
+* Power BI (Análise gráfica);
+* Microsoft Excel (Manuseio da Base de dados e produção do Backlog);
+* Microsoft Word (Documentação do projeto);
+* Python (Colab);
+* Github (Versionamento);
+* Microsoft PowerPoint (Criação de slides para apresentação).
 
 # Product Backlog:
 

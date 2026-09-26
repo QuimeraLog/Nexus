@@ -33,7 +33,11 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
   * Identificação dos setores predominantes no município.
   * Apoio de futuras iniciativas de tomada de decisão de gestão pública.
 
-# Tecnologias Utilizadas:
+## Problema:
+
+  A região de São José dos Campos possui um dos ecossistemas econômicos mais relevantes do Brasil, com forte presença de empresas dos setores aeroespacial, automotivo, químico e de serviços especializados. Apesar dessa relevância econômica, atualmente não existe um mapeamento estruturado com as informações sobre a estrutura produtiva regional e os impactos por ela gerados.
+
+## Tecnologias Utilizadas:
 
 * Power BI
 * Microsoft Excel

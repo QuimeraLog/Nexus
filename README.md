@@ -58,7 +58,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 | 5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas na região do Centro Acadêmico da FATEC e UNIFESP, no PIT.     | 4h          | 1      |
 | 6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos e das Empresas de São José dos Campos, com a finalidade de visualizar e entender o ecossistema de inovação da cidade.    | 6h          | 1      |
     
-# Burndown
+# Burndown:
 
 ## Sprint 1. Concepção
 - [x] Defina o propósito do template;
@@ -71,7 +71,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-# Competências desenvolvidas
+# Competências desenvolvidas:
 
 ## Hard Skill (saber tecnológico)
 <details>

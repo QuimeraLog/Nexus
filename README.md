@@ -57,13 +57,56 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 | 5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas na região do Centro Acadêmico da FATEC e UNIFESP, no PIT.     | 4h          | 1      |
 | 6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos e das Empresas de São José dos Campos, com a finalidade de visualizar e entender o ecossistema de inovação da cidade.    | 6h          | 1      |
     
+# Burndown
 
+## Sprint 1. Concepção
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
+# Competências desenvolvidas
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
+</details>
 
 # Registro das Sprints:
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 27/08/2026 | Concluído ✅ | [Ver Relatório]() | 
+|Kick Off | 27/08/2026 | Concluído ✅ | [Requisitos do Cliente](Docs/Requisitos de Cliente - CADI.pdf) | 
 |Entrega do vídeo | 03/09/2026 | Concluído ✅| [Ver Relatório]() | 
 |Sprint 01|  01/10/2026 | Em Andamento ⚙️|[Ver Relatório]() | 
 |Sprint 02| 29/10/2026 | A Fazer🗒️ |[Ver Relatório]() | 

@@ -109,7 +109,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/08/2026 | Concluído ✅ | [Requisitos do Cliente](https://github.com/luizignacio3452/QuimeraLog/blob/main/Docs/Requisitos%20de%20Cliente%20-%20CADI.pdf) | 
 |Entrega do vídeo | 03/09/2026 | Concluído ✅| [Ver Relatório]() | 
-|Sprint 01|  01/10/2026 | Em Andamento ⚙️|[Ver Relatório]() | 
-|Sprint 02| 29/10/2026 | A Fazer🗒️ |[Ver Relatório]() | 
-|Sprint 03| 26/11/2026 | A Fazer 🗒️|[Ver Relatório]()  | 
-|Feira de Soluções| 03/12/2026 | A Fazer 🗒️|[Ver Relatório]() | 
+|Sprint 01|  01/10/2026 | Em Andamento ⚙️|[MVP](https://github.com/luizignacio3452/QuimeraLog/blob/main/MVP/Sprint1.md) | 
+|Sprint 02| 29/10/2026 | A Fazer🗒️ |[MVP]() | 
+|Sprint 03| 26/11/2026 | A Fazer 🗒️|[MVP]()  | 
+|Feira de Soluções| 03/12/2026 | A Fazer 🗒️| [Ver Relatório]() | 

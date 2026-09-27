@@ -40,7 +40,7 @@
 * Persona 1: Tomador de decisão de políticas públicas (Cliente)
   Precisa compreender o perfil econômico e produtivo do município para apoiar análises e decisões.
 
-## User Stoties - Sprint 1:
+## User Stories - Sprint 1:
 
 | **ID** | **User Story**                                    | **Prioridade** | **Sprint** |
 | ------ | ------------------------------------------------- | -------------- | ---------- |

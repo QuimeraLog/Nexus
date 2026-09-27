@@ -1,65 +1,85 @@
 # MVP - SPRINT 1
 
 ## Objetivo do MVP:
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
 
----
+* Desenvolver uma primeira versão funcional do projeto que seja capaz de organizar e apresentar informações sobre o perfil produtivo de São José dos Campos, utilizando uma base RAIS filtrada e dados classificados por setor e atividade.
 
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+## Problemas resolvidos:
+* A dificuldade de visualizar e compreender de forma organizada quais são os setores industriais e de serviços estão presentes no município e quais atividades produtivas predominam.
 
----
+## Hipótese validada:
+* Uma base de dados tratada e classificada por setores e atividades produtivas facilita a identificação do perfil econômico e produtivo.
 
-## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+## Valor agregado para o usuário final:
+* Disponibilizar ao tomador de decisão de políticas públicas uma primeira visão do perfil da cidade, reduzindo a necessidade de analisar os dados manualmente. 
 
----
+## Solução inicial:
 
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+* Nesta Sprint será desenvolvida a primeira versão do projeto, e será concentrada no tratamento dos dados e na visualização inicial do perfil produtivo de São José dos Campos.
 
----
+## Funcionalidades incluídas:
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+* Filtragem da base RAIS para o município de São José dos Campos.
+* Identificação dos principais setores industriais e de serviços.
+* Classificação das principais atividades produtivas.
+* Criação de uma primeira visualização dos dados em Power BI.
+* Visualização inicial da distribuição das atividades econômicas.
 
----
+## Limitações conhecidas: 
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+* O MVP não apresentará ainda o ecossistema completo de inovação.
+* O mapeamento detalhado de centros acadêmicos e empresas do PIT ficará para as próximas sprints.
+* Rotas logísticas, evolução histórica e outras análises avançadas não fazem parte dessa versão.
 
----
+## Escopo reduzido:
 
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+* O MVP será limitado à criação de uma base RAIS tratada e apresentação dos principais setores e atividades produtivas da cidade.
 
----
+## Persona - Sprint 1: 
 
-## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+* Persona 1: Tomador de decisão de políticas públicas (Cliente)
+  Precisa compreender o perfil econômico e produtivo do município para apoiar análises e decisões.
 
----
+## User Stoties - Sprint 1:
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+| **ID** | **User Story**                                    | **Prioridade** | **Sprint** |
+| ------ | ------------------------------------------------- | -------------- | ---------- |
+| US1    | Como tomador de decisão de políticas públicas, quero saber quais são os principais setores industriais e de serviços presentes na região de São José dos Campos, para compreender o perfil produtivo do município.| Alta           | 1          |
+| US2    | Como tomador de decisão de políticas públicas, quero saber quais tipos de atividades produtivas predominam, para identificar as principais características econômicas do município.                     | Alta           | 1          |
+| US3    | Como tomador de decisão de políticas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos, para utilizar dados organizados na análise do perfil produtivo.                  | Alta           | 1          |
+| US4    | Como tomador de decisão de políticas públicas, preciso do mapeamento das empresas e atividades de cada região de São José dos Campos, para visualizar sua distribuição territorial.                                | Alta           | 1          |
+
+## Tarefas relacionadas - 5W2H: 
+
+| **Sprint** | **Entregas Principais**                                                                                                      | **Status**         |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| 01         | Base RAIS filtrada, tratamento dos dados, classificação dos setores e atividades e primeira visualização do perfil produtivo | Em desenvolvimento |
+| 02         | Ampliação das visualizações, filtros, indicadores e mapeamento do ecossistema                                                | Planejada          |
+| 03         | Análises avançadas, documentação, melhorias e consolidação do produto                                                        | Planejada          |
+
+## Critérios de aceitação:
+
+* A base RAIS utilizada deve estar filtrada para São José dos Campos.
+* Os dados devem estar organizados e tratados para permitir análise.
+* Os principais setores industriais e de serviços devem ser identificados.
+* As principais atividades produtivas devem estar classificadas.
+* As informações devem ser apresentadas em uma visualização compreensível.
+* O usuário deve conseguir identificar quais setores e atividades possuem maior presença no município.
+* A fonte e o período dos dados utilizados devem ser registrados.
+
+## Tarefas MVP da Sprint 2:
+
+* Adicionar filtros interativos ao dashboard.
+* Criar indicadores e comparações entre setores.
+* Ampliar o mapeamento para empresas e centros acadêmicos.
+* Analisar as empresas relacionadas ao PIT e à FATEC/UNIFESP.
+* Relacionar empresas, academia, tecnologia e inovação.
+* Desenvolver análises de logística, macroprocessos e evolução dos setores.
+
+## Anexos:
+
+* Base RAIS original.
+* Base RAIS filtrada para São José dos Campos.
+* Prints do Power BI.
+* Link do repositório GitHub.
+* Vídeo ou apresentação da Sprint 1.

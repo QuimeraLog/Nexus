@@ -61,15 +61,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Burndown:
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
+- [x] Levantar dados RAIS
+- [x] Filtrar dados para SJC
+- [x] Tratar a base
+- [ ] Classificar setores
+- [ ] Criar visualização
+- [ ] Testar resultados
+- [ ] Documentar
+- [ ] Apresentar MVP
 
 # Competências desenvolvidas:
 

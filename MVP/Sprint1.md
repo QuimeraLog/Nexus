@@ -1,23 +1,34 @@
 # MVP - SPRINT 1
 
-## Objetivo do MVP:
+# Índice
+
+* [Sobre o MVP](#Sobre-o-MVP)
+* [Persona - Sprint 1](#Persona---Sprint-1)
+* [User Stories - Sprint 1](#User-Stories---Sprint-1)
+* [Tarefas relacionadas - 5W2H](#Tarefas-relacionadas---5W2H)
+* [Critérios de aceitação](#Critérios-de-aceitação)
+* [Tarefas MVP da Sprint 2](#Tarefas-MVP-da-Sprint-2)
+* [Anexos](#Anexos)
+
+
+## Sobre o MVP:
 
 * Desenvolver uma primeira versão funcional do projeto que seja capaz de organizar e apresentar informações sobre o perfil produtivo de São José dos Campos, utilizando uma base RAIS filtrada e dados classificados por setor e atividade.
 
-## Problemas resolvidos:
+### Problemas resolvidos:
 * A dificuldade de visualizar e compreender de forma organizada quais são os setores industriais e de serviços estão presentes no município e quais atividades produtivas predominam.
 
-## Hipótese validada:
+### Hipótese validada:
 * Uma base de dados tratada e classificada por setores e atividades produtivas facilita a identificação do perfil econômico e produtivo.
 
-## Valor agregado para o usuário final:
+### Valor agregado para o usuário final:
 * Disponibilizar ao tomador de decisão de políticas públicas uma primeira visão do perfil da cidade, reduzindo a necessidade de analisar os dados manualmente. 
 
-## Solução inicial:
+### Solução inicial:
 
 * Nesta Sprint será desenvolvida a primeira versão do projeto, e será concentrada no tratamento dos dados e na visualização inicial do perfil produtivo de São José dos Campos.
 
-## Funcionalidades incluídas:
+### Funcionalidades incluídas:
 
 * Filtragem da base RAIS para o município de São José dos Campos.
 * Identificação dos principais setores industriais e de serviços.
@@ -25,13 +36,13 @@
 * Criação de uma primeira visualização dos dados em Power BI.
 * Visualização inicial da distribuição das atividades econômicas.
 
-## Limitações conhecidas: 
+### Limitações conhecidas: 
 
 * O MVP não apresentará ainda o ecossistema completo de inovação.
 * O mapeamento detalhado de centros acadêmicos e empresas do PIT ficará para as próximas sprints.
 * Rotas logísticas, evolução histórica e outras análises avançadas não fazem parte dessa versão.
 
-## Escopo reduzido:
+### Escopo reduzido:
 
 * O MVP será limitado à criação de uma base RAIS tratada e apresentação dos principais setores e atividades produtivas da cidade.
 

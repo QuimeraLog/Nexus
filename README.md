@@ -1,4 +1,4 @@
-# QuimeraLog
+# Nexus
 
 Grupo 4 do Projeto Integrador em Logística do primeiro semestre. Projeto baseado na metodologia ágil SCRUM e demais técnicas de desenvolvimento pessoal e gerenciamento de grupos. 
 

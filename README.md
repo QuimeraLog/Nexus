@@ -1,8 +1,6 @@
 # Nexus
 
-Grupo 4 do Projeto Integrador em Logística do primeiro semestre. Projeto baseado na metodologia ágil SCRUM e demais técnicas de desenvolvimento pessoal e gerenciamento de grupos. 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Somos o grupo 4 da disciplina de Projeto Integrador em Logística - primeiro semestre. O Projeto é baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos e demais técnicas de desenvolvimento pessoal e gerenciamento de grupos. 
 
 # Índice
 
@@ -109,8 +107,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/08/2026 | Concluído ✅ | [Requisitos do Cliente](https://github.com/luizignacio3452/QuimeraLog/blob/main/Docs/Requisitos%20de%20Cliente%20-%20CADI.pdf) | 
-|Entrega do vídeo | 03/09/2026 | Concluído ✅| [Ver Relatório]() | 
+|Entrega do vídeo | 03/09/2026 | Concluído ✅| [Assistir vídeo]() | 
 |Sprint 01|  01/10/2026 | Em Andamento ⚙️|[MVP](https://github.com/luizignacio3452/QuimeraLog/blob/main/MVP/Sprint1.md) | 
 |Sprint 02| 29/10/2026 | A Fazer🗒️ |[MVP]() | 
 |Sprint 03| 26/11/2026 | A Fazer 🗒️|[MVP]()  | 
-|Feira de Soluções| 03/12/2026 | A Fazer 🗒️| [Ver Relatório]() | 
+|Feira de Soluções| 03/12/2026 | A Fazer 🗒️| [Ver Relatório Final]() | 

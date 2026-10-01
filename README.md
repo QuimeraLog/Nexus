@@ -55,7 +55,7 @@ Somos o grupo 4 da disciplina de Projeto Integrador em Logística - primeiro sem
 | 3    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais tipos de atividades produtivas predominam no município (manufatura, tecnologia, logística, serviços especializados etc).| 5h          | 1      |
 | 4  | Alta     | Como tomador de decisão de politicas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos.  | 5h        | 1    |
 | 5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas no Centro Acadêmico da FATEC, UNIFESP e no PIT.     | 4h          | 1      |
-| 6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos, com a finalidade de visualizar e entender o desenvolvimento das pesquisas e formação de futuros profissionais, com a finalidade de compreender o andamento do processo de inovação do ecossistema industrial e acadêmico da cidade.    | 6h          | 1      |
+| 6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos, com a finalidade de visualizar e entender o desenvolvimento das pesquisas e formação de futuros profissionais, para compreender o andamento do processo de inovação do ecossistema industrial e acadêmico da cidade.    | 6h          | 1      |
     
 # Burndown:
 

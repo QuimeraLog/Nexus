@@ -53,18 +53,20 @@
 
 ## User Stories - Sprint 1:
 
-| **ID** | **User Story**                                    | **Prioridade** | **Sprint** |
-| ------ | ------------------------------------------------- | -------------- | ---------- |
-| US1    | Como tomador de decisão de políticas públicas, quero saber quais são os principais setores industriais e de serviços presentes na região de São José dos Campos, para compreender o perfil produtivo do município.| Alta           | 1          |
-| US2    | Como tomador de decisão de políticas públicas, quero saber quais tipos de atividades produtivas predominam, para identificar as principais características econômicas do município.                     | Alta           | 1          |
-| US3    | Como tomador de decisão de políticas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos, para utilizar dados organizados na análise do perfil produtivo.                  | Alta           | 1          |
-| US4    | Como tomador de decisão de políticas públicas, preciso do mapeamento das empresas e atividades de cada região de São José dos Campos, para visualizar sua distribuição territorial.                                | Alta           | 1          |
+| ID | Prioridade | User Story | Sprint |
+|------|------------|------------|--------|
+| US1    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais são os principais setores industriais e de serviços presentes na região de São José dos Campos.| 1      |
+| US2    | Alta       | Como tomador de decisão de politicas públicas, preciso do mapeamento das empresas de cada região de São José dos Campos.         | 1      |
+| US3    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais tipos de atividades produtivas predominam no município (manufatura, tecnologia, logística, serviços especializados etc).          | 1      |
+| US4  | Alta     | Como tomador de decisão de politicas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos.        | 1    |
+| US5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas no Centro Acadêmico da FATEC, UNIFESP e no PIT.         | 1      |
+| US6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos, com a finalidade de visualizar e entender o desenvolvimento das pesquisas e formação de futuros profissionais, para compreender o andamento do processo de inovação do ecossistema industrial e acadêmico da cidade.    |  1      |
 
 ## Tarefas relacionadas - 5W2H: 
 
 | **Sprint** | **Entregas Principais**                                                                                                      | **Status**         |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| 01         | Base RAIS filtrada, tratamento dos dados, classificação dos setores e atividades e primeira visualização do perfil produtivo | Em desenvolvimento |
+| 01         | Base RAIS filtrada, tratamento dos dados, classificação dos setores e atividades e primeira visualização do perfil produtivo | Finalizada |
 | 02         | Ampliação das visualizações, filtros, indicadores e mapeamento do ecossistema                                                | Planejada          |
 | 03         | Análises avançadas, documentação, melhorias e consolidação do produto                                                        | Planejada          |
 

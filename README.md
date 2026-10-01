@@ -64,9 +64,9 @@ Somos o grupo 4 da disciplina de Projeto Integrador em Logística - primeiro sem
 - [x] Levantar dados RAIS
 - [x] Filtrar dados para SJC
 - [x] Tratar a base
-- [ ] Classificar setores
-- [ ] Criar visualização
-- [ ] Testar resultados
+- [x] Classificar setores
+- [x] Criar visualização
+- [x] Testar resultados
 - [ ] Documentar
 - [ ] Apresentar MVP
 

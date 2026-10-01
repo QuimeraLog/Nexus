@@ -78,7 +78,6 @@
 * As principais atividades produtivas devem estar classificadas.
 * As informações devem ser apresentadas em uma visualização compreensível.
 * O usuário deve conseguir identificar quais setores e atividades possuem maior presença no município.
-* A fonte e o período dos dados utilizados devem ser registrados.
 
 ## Tarefas MVP da Sprint 2:
 
@@ -93,6 +92,5 @@
 
 * Base RAIS original.
 * Base RAIS filtrada para São José dos Campos.
-* Prints do Power BI.
 * Link do repositório GitHub.
 * Vídeo ou apresentação da Sprint 1.

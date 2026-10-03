@@ -1,6 +1,4 @@
-# Nexus
-
-Somos o grupo 4 da disciplina de Projeto Integrador em Logística - primeiro semestre. O Projeto é baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos e demais técnicas de desenvolvimento pessoal e gerenciamento de grupos. 
+# Nexus - Conecte-se ao que importa. 
 
 # Índice
 
@@ -12,7 +10,7 @@ Somos o grupo 4 da disciplina de Projeto Integrador em Logística - primeiro sem
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Sobre o Projeto Integrador (API):
-  Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL).
+  Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL) e SCRUM, procurando desenvolver a produtividade, autonomia, colaboração, gerenciamento de grupos e entrega de resultados dos estudantes envolvidos. 
 
 # Equipe:
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -108,7 +106,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 27/08/2026 | Concluído ✅ | [Requisitos do Cliente](https://github.com/luizignacio3452/QuimeraLog/blob/main/Docs/Requisitos%20de%20Cliente%20-%20CADI.pdf) | 
 |Entrega do vídeo | 03/09/2026 | Concluído ✅| [Assistir vídeo]() | 
-|Sprint 01|  01/10/2026 | Em Andamento ⚙️|[MVP](https://github.com/luizignacio3452/QuimeraLog/blob/main/MVP/Sprint1.md) | 
+|Sprint 01|  01/10/2026 | Concluído ✅|[MVP](https://github.com/luizignacio3452/QuimeraLog/blob/main/MVP/Sprint1.md) | 
 |Sprint 02| 29/10/2026 | A Fazer🗒️ |[MVP]() | 
 |Sprint 03| 26/11/2026 | A Fazer 🗒️|[MVP]()  | 
 |Feira de Soluções| 03/12/2026 | A Fazer 🗒️| [Ver Relatório Final]() | 

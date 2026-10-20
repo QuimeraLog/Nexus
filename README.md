@@ -16,10 +16,9 @@
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Jéssica Oliveira dos Santos Castro         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jessica3108)              |
-| Scrum Master  | Bianca de Fátima Campos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)|
-| Team Member   | Luiz Miguel Ferreira Ignácio              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-ferreira-ign%C3%A1cio-99b90b342/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luizignacio3452)        |
+| Scrum Master   | Luiz Miguel Ferreira Ignácio              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-miguel-ferreira-ign%C3%A1cio-99b90b342/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luizignacio3452)        |
 |  Team Member  | Maria Clara Cardozo Andrade                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CtrlMarie)        |
-|  Team Member  | Pedro Henrique Skug Ferreira                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/aa)        |
+
 
 # Objetivo do Projeto:
 
@@ -45,6 +44,7 @@
 * Microsoft PowerPoint (Criação de slides para apresentação).
 
 # Product Backlog:
+## Sprint 1:
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
@@ -53,21 +53,52 @@
 | 3    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais tipos de atividades produtivas predominam no município (manufatura, tecnologia, logística, serviços especializados etc).| 5h          | 1      |
 | 4  | Alta     | Como tomador de decisão de politicas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos.  | 5h        | 1    |
 | 5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas no centro de inovação do PIT.    | 4h          | 1      |
-| 6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos, com a finalidade de visualizar e entender o desenvolvimento das pesquisas e formação de futuros profissionais, para compreender o andamento do processo de inovação do ecossistema industrial e acadêmico da cidade.    | 6h          | 1      |
+
+## Sprint 2:
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1    | Alta       | Como gestor da SIDE, preciso ter acesso à uma base RAIS completamente filtrada e simplificada para fácil entendimento. | 6h          | 2      |
+| 2    | Alta       | Como tomador de decisões públicas, preciso de uma visualização clara e interativa de indicadores utilizando Business Inteligence para elaboração de gráficos e insights. | 5h          | 2      |
+| 3    | Média       | Como tomador de decisão de políticas públicas, quero saber quais são as oportunidades profissionais de cada setor do ecossistema econômico do municipio. | 4h          | 2      |
+| 4    | Média     | Como tomador de decisão de politicas públicas, preciso do mapeamento regional das rotas e do ecossistema de São José dos Campos.  | 5h        | 2    |
+| 5    | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso a um mapeamento dos centros acadêmicos e empresariais (PIT e FATEC) com integração ao GEOSJC.    | 6h          | 2      |
+
+## Sprint 3:
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1    | Alta       |  | h          | 3    |
+| 2    | Alta       |  | h          | 3    |
+| 3    | Média      |  | h          | 3    |
+| 4    | Média      |  | h          | 3    |
+| 5    | Média      |  | h          | 2    |
+
     
 # Burndown:
 
 ## Sprint 1. Concepção
 
-- [x] Levantar dados RAIS
-- [x] Filtrar dados para SJC
-- [x] Tratar a base
-- [x] Classificar setores
-- [x] Criar visualização
-- [x] Testar resultados
-- [ ] Documentar
-- [ ] Apresentar MVP
+- [x] Levantar dados RAIS.
+- [x] Filtrar dados para SJC.
+- [x] Tratar a base.
+- [x] Classificar setores.
+- [x] Criar visualização.
+- [x] Testar resultados.
+- [x] Documentar.
+- [x] Apresentar MVP.
 
+## Sprint 2. Desenvolvimento
+
+- [x] Recebimento de feedback da sprint anterior.
+- [x] Elaboração do backlog e atualização do 5W2H.
+- [ ] Finalizar filtragem da RAIS.
+- [ ] Iniciar protótipo da visualização Power BI.
+- [ ] Levantamento das oportunidades profissionais e setores.
+- [ ] Mapeamento regional das rotas e do ecossistema.
+- [ ] Mapeamento dos centros acadêmicos e empresariais.
+- [ ] Documentar.
+- [ ] Atualizar o GitHub.
+- [ ] Apresentar MVP.
+      
 # Competências desenvolvidas:
 
 ## Hard Skill (saber tecnológico)
@@ -79,7 +110,7 @@
 | GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Product Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
@@ -107,6 +138,6 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 27/08/2026 | Concluído ✅ | [Requisitos do Cliente](https://github.com/luizignacio3452/QuimeraLog/blob/main/Docs/Requisitos%20de%20Cliente%20-%20CADI.pdf) | 
 |Entrega do vídeo | 03/09/2026 | Concluído ✅| [Assistir vídeo]() | 
 |Sprint 01|  01/10/2026 | Concluído ✅|[MVP](MVP/Sprint1.md) | 
-|Sprint 02| 29/10/2026 | A Fazer🗒️ |[MVP]() | 
+|Sprint 02| 29/10/2026 | Em Andamento ⚙️|[MVP]() | 
 |Sprint 03| 26/11/2026 | A Fazer 🗒️|[MVP]()  | 
 |Feira de Soluções| 03/12/2026 | A Fazer 🗒️| [Ver Relatório Final]() | 

@@ -67,8 +67,8 @@
 | **Sprint** | **Entregas Principais**                                                                                                      | **Status**         |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | 01         | Base RAIS filtrada, tratamento dos dados, classificação dos setores e atividades e primeira visualização do perfil produtivo | Finalizada |
-| 02         | Ampliação das visualizações, filtros, indicadores e mapeamento do ecossistema                                                | Planejada          |
-| 03         | Análises avançadas, documentação, melhorias e consolidação do produto                                                        | Planejada          |
+| 02         | Ampliação das visualizações, filtros, indicadores e mapeamento do ecossistema                                                | Finalizada          |
+| 03         | Análises avançadas, documentação, melhorias e consolidação do produto                                                        | Finalizada          |
 
 ## Critérios de aceitação:
 

@@ -90,4 +90,4 @@
 
 ## Anexos:
 
-Relatório parcial sprint 1: [Clique Aqui](Docs/Relatorio_Sprint1_Quimera Log.docx)
+Relatório parcial sprint 1: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/Relatorio_Sprint1_Quimera%20Log.docx)

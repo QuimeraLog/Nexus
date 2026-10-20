@@ -55,12 +55,11 @@
 
 | ID | Prioridade | User Story | Sprint |
 |------|------------|------------|--------|
-| US1    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais são os principais setores industriais e de serviços presentes na região de São José dos Campos.| 1      |
-| US2    | Alta       | Como tomador de decisão de politicas públicas, preciso do mapeamento das empresas de cada região de São José dos Campos.         | 1      |
-| US3    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais tipos de atividades produtivas predominam no município (manufatura, tecnologia, logística, serviços especializados etc).          | 1      |
-| US4  | Alta     | Como tomador de decisão de politicas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos.        | 1    |
-| US5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas no Centro Acadêmico da FATEC, UNIFESP e no PIT.         | 1      |
-| US6  | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso ao mapeamento dos Centros Acadêmicos, com a finalidade de visualizar e entender o desenvolvimento das pesquisas e formação de futuros profissionais, para compreender o andamento do processo de inovação do ecossistema industrial e acadêmico da cidade.    |  1      |
+| US 1    | Alta       | Como tomador de decisão de politicas públicas, quero saber quais são os principais setores industriais e de serviços presentes na região de São José dos Campos.|  1      |
+| US 2    | Alta       | Como tomador de decisão de politicas públicas, preciso do mapeamento das empresas de cada região de São José dos Campos. | 1      |
+| US 3   | Alta       | Como tomador de decisão de politicas públicas, quero saber quais tipos de atividades produtivas predominam no município (manufatura, tecnologia, logística, serviços especializados etc).|  1      |
+| US 4  | Alta     | Como tomador de decisão de politicas públicas, quero ter acesso a uma base RAIS filtrada para o município de São José dos Campos.  |  1    |
+| US 5  | Alta      | Como tomador de decisão de politicas públicas, quero saber quais empresas estão inseridas no centro de inovação do PIT.    | 1      |
 
 ## Tarefas relacionadas - 5W2H: 
 

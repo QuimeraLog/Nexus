@@ -66,11 +66,11 @@
 ## Sprint 3:
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1    | Alta       |  | h          | 3    |
-| 2    | Alta       |  | h          | 3    |
-| 3    | Média      |  | h          | 3    |
-| 4    | Média      |  | h          | 3    |
-| 5    | Média      |  | h          | 2    |
+| 1    | Alta       | Como tomador de decisão de politicas públicas, preciso de um dashboard finalizado, para vizualizar os resultados da pesquisa e ter acesso as informações sobre o ecossistema de São José dos Campos.  | 5h          | 3    |
+| 2    | Alta       | Como tomador de decisão de politicas públicas, qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional no quesito inovação (PIT e as Empresas) | 6h          | 3    |
+| 3    | Média      | Como gestor do SIDE, preciso do levantamento das empresas de transportes que atuam na região, para análise de seus segmentos e setores. | 4h          | 3    |
+| 4    | Baixa      | Como tomador de decisões do SIDE, preciso visualizar a popularidade do PIT e de outros centros tecnológicos de São José dos Campos. | 4h          | 3    |
+| 5    | Baixa      | Como gestor do SIDE, quero um índice de popularidade, utilização, e satisfação do transporte público no município pelos usuários para identificar possíveis pontos de melhoria. | 6h          | 3    |
 
     
 # Burndown:

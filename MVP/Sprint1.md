@@ -90,7 +90,4 @@
 
 ## Anexos:
 
-* Base RAIS original.
-* Base RAIS filtrada para São José dos Campos.
-* Link do repositório GitHub.
-* Vídeo ou apresentação da Sprint 1.
+Relatório parcial sprint 1: [Clique Aqui](Docs/Relatorio_Sprint1_Quimera Log.docx)

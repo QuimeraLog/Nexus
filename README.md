@@ -61,7 +61,7 @@
 | 2    | Alta       | Como tomador de decisões públicas, preciso de uma visualização clara e interativa de indicadores utilizando Business Inteligence para elaboração de gráficos e insights. | 5h          | 2      |
 | 3    | Média       | Como tomador de decisão de políticas públicas, quero saber quais são as oportunidades profissionais de cada setor do ecossistema econômico do municipio. | 4h          | 2      |
 | 4    | Média     | Como tomador de decisão de politicas públicas, preciso do mapeamento regional das rotas e do ecossistema de São José dos Campos.  | 5h        | 2    |
-| 5    | Média      | Como tomador de decisão de politicas públicas, preciso ter acesso a um mapeamento dos centros acadêmicos e empresariais (PIT e FATEC) com integração ao GEOSJC.    | 6h          | 2      |
+| 5    | Média      | Como tomador de decisão de politicas públicas, preciso identificar os principais centros acadêmicos (Escolas e Universidades) presentes na região.    | 6h          | 2      |
 
 ## Sprint 3:
 | Rank | Prioridade | User Story | Estimativa | Sprint |
@@ -90,14 +90,14 @@
 
 - [x] Recebimento de feedback da sprint anterior.
 - [x] Elaboração do backlog e atualização do 5W2H.
-- [ ] Finalizar filtragem da RAIS.
-- [ ] Iniciar protótipo da visualização Power BI.
+- [x] Finalizar filtragem da RAIS.
+- [x] Iniciar protótipo da visualização Power BI.
 - [ ] Levantamento das oportunidades profissionais e setores.
 - [ ] Mapeamento regional das rotas e do ecossistema.
 - [ ] Mapeamento dos centros acadêmicos e empresariais.
-- [ ] Documentar.
-- [ ] Atualizar o GitHub.
-- [ ] Apresentar MVP.
+- [x] Documentar.
+- [x] Atualizar o GitHub.
+- [x] Apresentar MVP.
       
 # Competências desenvolvidas:
 
@@ -138,6 +138,6 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 27/08/2026 | Concluído ✅ | [Requisitos do Cliente](https://github.com/luizignacio3452/QuimeraLog/blob/main/Docs/Requisitos%20de%20Cliente%20-%20CADI.pdf) | 
 |Entrega do vídeo | 03/09/2026 | Concluído ✅| [Assistir vídeo]() | 
 |Sprint 01|  01/10/2026 | Concluído ✅|[MVP](MVP/Sprint1.md) | 
-|Sprint 02| 29/10/2026 | Em Andamento ⚙️|[MVP]() | 
+|Sprint 02| 29/10/2026 | Concluído ✅|[MVP](MVP/Sprint2.md) | 
 |Sprint 03| 26/11/2026 | A Fazer 🗒️|[MVP]()  | 
 |Feira de Soluções| 03/12/2026 | A Fazer 🗒️| [Ver Relatório Final]() | 

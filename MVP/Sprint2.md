@@ -73,4 +73,4 @@
 ## Anexos:
 
 Relatório parcial sprint 2: [Clique Aqui]()
-
+Link de Acesso ao Power BI: [Clique Aqui](https://app.powerbi.com/view?r=eyJrIjoiNzlmMTk5YzQtODc0NS00ZmQzLTk4NGUtOWUyNGJlNTc1MmRjIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9).

@@ -90,3 +90,7 @@ O MVP da Sprint 2 será limitado à conclusão do tratamento da base RAIS, à am
 
 - Relatório parcial da Sprint 2: [Clique aqui](https://github.com/QuimeraLog/Nexus/blob/main/MVP)
 - Dashboard do Power BI: [Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiNzlmMTk5YzQtODc0NS00ZmQzLTk4NGUtOWUyNGJlNTc1MmRjIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+- Código desenvolvido para a limpeza da base: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/RAIS_SPRINT_2.ipynb)
+- Documento da base RAIS finalizada: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/RAIS_SJC_tratada.csv)
+- Mapa Interativo São José dos Campos GEOSJC: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/Mapa%20Interativo%20-%20GeoSJC%20-%20link.docx)
+- 

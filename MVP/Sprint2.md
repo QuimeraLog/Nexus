@@ -93,4 +93,6 @@ O MVP da Sprint 2 será limitado à conclusão do tratamento da base RAIS, à am
 - Código desenvolvido para a limpeza da base: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/RAIS_SPRINT_2.ipynb)
 - Documento da base RAIS finalizada: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/RAIS_SJC_tratada.csv)
 - Mapa Interativo São José dos Campos GEOSJC: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/Mapa%20Interativo%20-%20GeoSJC%20-%20link.docx)
-- 
+- Mapeamento das escolas e faculdades São José dos Campos: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/escfac_sjc_oficial.xlsx)
+- Mapeamento das rotas São José dos Campos: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/Excel-Dados%20das%20Rotas.xlsx)
+- 5W2H, Backlog e SWOT Atualizados: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/QuimeraLog.xlsx)

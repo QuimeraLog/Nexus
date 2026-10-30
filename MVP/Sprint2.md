@@ -96,5 +96,5 @@ O MVP da Sprint 2 será limitado à conclusão do tratamento da base RAIS, à am
 - Mapeamento das escolas e faculdades São José dos Campos: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/escfac_sjc_oficial.xlsx)
 - Mapeamento das rotas São José dos Campos: [Clique Aqui](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/jessica_castro01_aluno_cps_sp_gov_br/cQrCHCgJ0U6uTpYFACXBRc4iEgUBAyEfb94DIleq5l-Kow6mGw)
 - 5W2H, Backlog e SWOT Atualizados: [Clique Aqui](https://github.com/QuimeraLog/Nexus/blob/main/Docs/QuimeraLog.xlsx)
-- tabela dos vinculos dos subsetores de São José dos Campos: [Clique Aqui] (https://centropaulasouza-my.sharepoint.com/:x:/g/personal/jessica_castro01_aluno_cps_sp_gov_br/cQo1nLaJo5CVRqt_kwBiHlNUEgUBSL8fAX2fpbrump7u2s7BH)
+- tabela dos vinculos dos subsetores de São José dos Campos: [Clique Aqui].(https://centropaulasouza-my.sharepoint.com/:x:/g/personal/jessica_castro01_aluno_cps_sp_gov_br/cQo1nLaJo5CVRqt_kwBiHlNUEgUBSL8fAX2fpbrump7u2s7BHA)
   

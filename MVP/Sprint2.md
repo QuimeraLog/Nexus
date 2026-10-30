@@ -52,12 +52,12 @@ O MVP da Sprint 2 será limitado à conclusão do tratamento da base RAIS, à am
 ## User Stories - Sprint 2:
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
-|---|---|---|---|---|
-| 1 | Alta | Como gestor da SIDE, preciso ter acesso a uma base RAIS tratada, organizada e simplificada para facilitar a consulta e a interpretação dos dados econômicos do município. | 6h | 2 |
-| 2 | Alta | Como tomador de decisões públicas, preciso de um dashboard interativo com indicadores e gráficos comparativos para identificar os setores e as atividades econômicas de maior relevância em São José dos Campos. | 5h | 2 |
-| 3 | Média | Como tomador de decisão de políticas públicas, quero identificar as atividades econômicas e os setores com maior potencial de oportunidades profissionais para orientar análises sobre o mercado de trabalho. | 4h | 2 |
-| 4 | Média | Como tomador de decisão de políticas públicas, preciso visualizar a distribuição regional dos estabelecimentos e reunir informações geográficas que apoiem o estudo do ecossistema econômico e logístico municipal. | 5h | 2 |
-| 5 | Média | Como tomador de decisão de políticas públicas, preciso identificar empresas e instituições acadêmicas relacionadas ao ecossistema local, incluindo PIT, FATEC e UNIFESP, para compreender possíveis conexões entre produção, educação e inovação. | 6h | 2 |
+|------|------------|------------|------------|--------|
+| 1    | Alta       | Como gestor da SIDE, preciso ter acesso à uma base RAIS completamente filtrada e simplificada para fácil entendimento. | 6h          | 2      |
+| 2    | Alta       | Como tomador de decisões públicas, preciso de uma visualização clara e interativa de indicadores utilizando Business Inteligence para elaboração de gráficos e insights. | 5h          | 2      |
+| 3    | Média       | Como tomador de decisão de políticas públicas, quero saber quais são as oportunidades profissionais de cada setor do ecossistema econômico do municipio. | 4h          | 2      |
+| 4    | Média     | Como tomador de decisão de politicas públicas, preciso do mapeamento regional das rotas e do ecossistema de São José dos Campos.  | 5h        | 2    |
+| 5    | Média      | Como tomador de decisão de politicas públicas, preciso identificar os principais centros acadêmicos (Escolas e Universidades) presentes na região.    | 6h          | 2      |
 
 ## Tarefas relacionadas - 5W2H:
 
